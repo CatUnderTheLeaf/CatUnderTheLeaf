@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Stacy! 👋
 
-<!--
-**CatUnderTheLeaf/CatUnderTheLeaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a software engineer with a passion for robotics and computer vision. I enjoy making robots move around and percept environment. Also I like to automate some day-to-day tasks.
 
-Here are some ideas to get you started:
+### Projects
+Here are some of the projects I've worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [deepRacerSim - Simulation for an AWS DeepRacer car](https://github.com/CatUnderTheLeaf/deepRacerSim)
+- [rosRoboCar for the "Autonomous Driving Competition"](https://github.com/CatUnderTheLeaf/rosRoboCar)
+- [M.A.Ge - your automated menu generator](https://github.com/CatUnderTheLeaf/menuGenerator)
+
+📫[catundertheleaf@gmail.com](mailto:catundertheleaf@gmail.com)
