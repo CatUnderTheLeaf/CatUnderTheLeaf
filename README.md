@@ -11,4 +11,8 @@ Here are some of the projects I've worked on:
 - [rosRoboCar for the "Autonomous Driving Competition"](https://github.com/CatUnderTheLeaf/rosRoboCar)
 - [M.A.Ge - your automated menu generator](https://github.com/CatUnderTheLeaf/menuGenerator)
 
-📫[catundertheleaf@gmail.com](mailto:catundertheleaf@gmail.com)
+### [catundertheleaf.github.io](https://catundertheleaf.github.io/)
+
+Here I will publish more detailed descriptions of the projects I did during my career break to learn new languages, skills and tools.
+
+Feel free to contact me 📫[catundertheleaf@gmail.com](mailto:catundertheleaf@gmail.com)
