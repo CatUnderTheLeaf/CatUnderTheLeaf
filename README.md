@@ -1,4 +1,4 @@
-### Hi there, I'm Stacy! 👋
+### Hi there, I'm Anastasiia! 👋
 
 ### About Me
 I am a software engineer with a passion for robotics and computer vision. I enjoy making robots move around and percept environment. Also I like to automate some day-to-day tasks.
