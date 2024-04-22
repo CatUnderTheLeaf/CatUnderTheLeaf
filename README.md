@@ -1,7 +1,7 @@
 ### Hi there, I'm Anastasiia! 👋
 
 ### About Me
-I am a software engineer with a passion for robotics and computer vision. I enjoy making robots move around and percept environment. Also I like to automate some day-to-day tasks.
+I am a software engineer with a passion for robotics, computer vision, and machine learning. These three fields often work together to create intelligent systems that positively impact the quality of human life, which is important to me. I also like the user-oriented automation of routine tasks as can be seen from my projects. 
 
 ### Projects
 Here are some of the projects I've worked on:
