@@ -12,6 +12,7 @@ __Computer Vision:__
 - [getYourLook](https://github.com/CatUnderTheLeaf/getYourLook) - A simple WebApp where user can take/upload photo and receive haircut recommendations based on the face shape
 
 __Robotics:__
+- [roboVision](https://github.com/CatUnderTheLeaf/roboVision) - A personalized voice-controlled robot-assistant with computer vision skills
 - [deepRacerSim](https://github.com/CatUnderTheLeaf/deepRacerSim) - Simulation for an AWS DeepRacer car
 - [rosRoboCar](https://github.com/CatUnderTheLeaf/rosRoboCar) for the "Autonomous Driving Competition"
 
