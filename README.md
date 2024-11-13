@@ -11,6 +11,7 @@ As I have different areas of interest I have divided my projects into three cate
 __Computer Vision:__
 - [getYourLook](https://github.com/CatUnderTheLeaf/getYourLook) - A simple WebApp where user can take/upload photo and receive haircut recommendations based on the face shape
 - [musicScanner](https://github.com/CatUnderTheLeaf/musicScanner) - Optical Music Recognition using Deep Learning
+- [Lane Detector](https://github.com/CatUnderTheLeaf/CV-stuff/tree/main/lane_detection) - Lane detection using Deep Learning and OpenCV 
 
 __Robotics:__
 - [roboVision](https://github.com/CatUnderTheLeaf/roboVision) - A personalized voice-controlled robot-assistant with computer vision skills
