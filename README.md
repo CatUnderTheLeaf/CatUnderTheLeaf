@@ -9,7 +9,7 @@ I am a software engineer with a passion for robotics, computer vision, and machi
 As I have different areas of interest I have divided my projects into three categories. But they all have one thing in common - they can be seen as a MVP, a product which can be already used by the end user.
 
 __Computer Vision:__
-- [getYourLook](https://github.com/CatUnderTheLeaf/getYourLook) - A simple WebApp where user can take/upload photo and receive haircut recommendations based on the face shape
+- [getYourStyle](https://github.com/WAIR-sandbox/getYourStyle) - A simple WebApp where user can take/upload photo and receive haircut recommendations based on the face shape
 - [musicScanner](https://github.com/CatUnderTheLeaf/musicScanner) - Optical Music Recognition using Deep Learning
 - [Lane Detector](https://github.com/CatUnderTheLeaf/CV-stuff/tree/main/lane_detection) - Lane detection using Deep Learning and OpenCV 
 
